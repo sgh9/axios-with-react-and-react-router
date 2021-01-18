@@ -1,0 +1,20 @@
+.btn-edit {
+      padding: 5px 15px;
+      background-color: aqua;
+      margin-top: 1rem;
+      border: 0;
+ 
+}
+
+.fullPost {
+      box-shadow: 0 2px 4px #ccc;
+      padding: 1rem;
+      border: 1px solid red;
+      width: 70%;
+      margin: 1rem auto;
+      text-align: center;
+}
+
+.center {
+      text-align: center;
+}

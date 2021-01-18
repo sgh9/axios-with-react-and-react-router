@@ -1,0 +1,29 @@
+.posts {
+      width: 70%;
+      margin: auto;
+      padding: 2rem 0 0 0;
+}
+
+.post {
+ padding: 1rem;
+ box-shadow: 0 1px 2px #111;
+ margin-bottom: 2rem;
+
+}
+
+.post-content {
+     text-align: justify; 
+     line-height: 1.45;
+}
+
+
+.post-title {
+ padding:0 0  1rem;
+ font-size: 1.4rem;
+ }
+
+ a {
+       text-decoration: none;
+       color: #111;
+ }
+ 
